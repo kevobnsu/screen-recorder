@@ -1,1 +1,1 @@
-# screen-recorder
+# simple screen recorder just for fun
